@@ -1,4 +1,2 @@
 # Test-config
-submaster2
-
-test pour commit
+- branch2
